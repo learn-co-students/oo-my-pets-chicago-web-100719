@@ -1,3 +1,4 @@
-class Dog
-  # code goes here
+require_relative 'animals'
+
+class Dog < Animal
 end
